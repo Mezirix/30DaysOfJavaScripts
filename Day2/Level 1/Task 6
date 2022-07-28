@@ -1,0 +1,5 @@
+// Cut (slice) out the first word of the string using substr() or substring() method
+
+let string = 'Chimeziri'
+console.log(string.substring(0,4))
+console.log(string.substring(4,10))
