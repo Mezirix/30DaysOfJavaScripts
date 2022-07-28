@@ -1,0 +1,4 @@
+// Print the length of the string on the browser console using console.log()
+
+let Name = 'Chimeziri'
+console.log(Name.length);
