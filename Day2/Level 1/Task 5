@@ -1,0 +1,4 @@
+// Change all the string characters to lowercase letters using toLowerCase() method
+
+let string = Chimeziri
+console.log(string.toLowerCase);
