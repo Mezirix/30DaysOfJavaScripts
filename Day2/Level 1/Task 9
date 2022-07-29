@@ -1,0 +1,4 @@
+// Split the string into an array using split() method
+
+let string = '30 Days Of JavaScript'
+console.log(string.split(''))
