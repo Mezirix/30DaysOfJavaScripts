@@ -1,0 +1,4 @@
+// What is character at index 15 in '30 Days Of JavaScript' string? Use charAt() method.
+
+let string = '30 Days Of JavaScript'
+console.log(string.charAt(0))
