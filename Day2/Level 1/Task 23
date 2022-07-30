@@ -1,4 +1,4 @@
-// Use match() method to find all the a’s in 30 Days Of JavaScript
+// Use match() method to find all the a’s in 30 Days Of JavaScript'
 
 let string = '30 Days Of JavaScript'
 console.log(string.match('a'))
