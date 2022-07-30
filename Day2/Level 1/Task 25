@@ -1,0 +1,4 @@
+// Use repeat() method to print 30 Days Of JavaScript 2 times
+
+let string = '30 Days Of JavaScript'
+console.log(string.repeat('2'))
