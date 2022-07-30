@@ -1,0 +1,4 @@
+// Use startsWith() method with the string 30 Days Of JavaScript and make the result true
+
+let string = '30 Days Of JavaScript'
+console.log(string.startsWith('30'))
